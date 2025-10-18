@@ -12,14 +12,14 @@ Cavite, Philippines
 
 ## Top Skills
 
-- PHP (CodeIgniter, Laravel, Symfony)
-- JavaScript
-- Python (Django, Flask)
-- DevOps (CI/CD, Docker, Kubernetes, Bash, Unix)
-- Java
-- Ruby/Rails
-- Serverless Framework
-- TypeScript
+- JavaScript (12 years)
+- PHP (10 years)
+- DevOps (6 years)
+- Python (4 years)
+- Java (3 years)
+- Ruby/Rails (2 years)
+- Serverless Framework (2 years)
+- TypeScript (2 years)
 
 ## Summary
 
@@ -75,7 +75,7 @@ security personnel in the Philippines
 - Migrate legacy Django application to latest stable version
 - Mitigate cybersecurity vulnerabilities for Django application
 
-**Technologies used:** Python (Django), JavaScript, TypeScript, React, AWS, GCP, Serverless Framework, Vite
+**Technologies used:** Python (Django), JavaScript, TypeScript, React, AWS, GCP, Serverless Framework, Vite, MySQL, PostgreSQL, Docker
 
 ---
 
@@ -93,7 +93,7 @@ goals (ECS, Lambda, Fargate, Cloudformation, etc.)
 - Design and develop low-latency, fault-tolerant, reliable and scalable
 distributed systems
 
-**Technologies used:** Java (Spring), PHP (Symfony, Laravel, CodeIgniter), MySQL, BuildKite, Docker, AWS, Python, Datadog, PagerDuty
+**Technologies used:** Java (Spring), PHP (Symfony, Laravel, CodeIgniter), MySQL, BuildKite CI/CD, Bash, Docker, AWS, Python, Datadog, PagerDuty, Serverless Framework
 
 ---
 
@@ -102,13 +102,13 @@ distributed systems
 Full Stack Engineer
 *October 2019 - March 2020 (6 months)*
 
-- Architect and develop the initial LMS platform for a U.S. startup which
-allows students to prepare for their ACT/SAT exams
-- Architect MVP infrastructure and utilize AWS services to achieve
-technical goals
+- Architect MVP infrastructure and utilize AWS services to achieve technical goals
+- Architect and develop the initial LMS platform for a U.S. startup which allows
+  students to prepare for their ACT/SAT exams
+- Build CI/CD pipelines for automated testing and deployment
 - Mentor and guide developers/code reviews
 
-**Technologies used:** Laravel/Blade, Docker, AWS (S3 for file storage), Tailwind CSS, GraphQL
+**Technologies used:** Laravel, Docker, AWS (S3 for file storage), Tailwind CSS, GraphQL, PostgreSQL, Gitlab CI/CD, React/TypeScript
 
 ---
 
