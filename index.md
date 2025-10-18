@@ -4,11 +4,11 @@ Cavite, Philippines
 
 ## About
 
-- Email: mbuyco@protonmail.com
-- LinkedIn: https://linkedin.com/in/michaelbuyco
-- Github: https://github.com/mbuyco
-- Buymeacoffee: https://buymeacoffee.com/mbuyco
-- Dev.to: https://dev.to/mbuyco
+- Email: [mbuyco@protonmail.com](mailto:mbuyco@protonmail.com)
+- LinkedIn: [https://linkedin.com/in/michaelbuyco](https://linkedin.com/in/michaelbuyco)
+- Github: [https://github.com/mbuyco](https://github.com/mbuyco)
+- Buymeacoffee: [https://buymeacoffee.com/mbuyco](https://buymeacoffee.com/mbuyco)
+- Dev.to: [https://dev.to/mbuyco](https://dev.to/mbuyco)
 
 ## Top Skills
 
