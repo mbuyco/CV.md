@@ -1,35 +1,26 @@
 # Michael Buyco
+
 ## Software Engineer
-Cavite, Philippines
 
-## About
-
-- Email: [mbuyco@protonmail.com](mailto:mbuyco@protonmail.com)
-- LinkedIn: [https://linkedin.com/in/michaelbuyco](https://linkedin.com/in/michaelbuyco)
-- Github: [https://github.com/mbuyco](https://github.com/mbuyco)
-- Buymeacoffee: [https://buymeacoffee.com/mbuyco](https://buymeacoffee.com/mbuyco)
-- Dev.to: [https://dev.to/mbuyco](https://dev.to/mbuyco)
-
-## Top Skills
-
-- JavaScript (12 years)
-- PHP (10 years)
-- DevOps (6 years)
-- Python (4 years)
-- Java (3 years)
-- Ruby/Rails (2 years)
-- Serverless Framework (2 years)
-- TypeScript (2 years)
+🇵🇭 Cavite, Philippines
+📧 [mbuyco@protonmail.com](mailto:mbuyco@protonmail.com)
+📱 +639777662055
 
 ## Summary
 
-- Highly experienced Software Engineer with over a decade of experience designing, building, and scaling enterprise-level web applications and distributed systems.
-- Skilled in cloud-native solutions and horizontally scalable microservices capable of handling millions of concurrent users.
-- Experienced in full-stack development across modern frameworks, with deep expertise in system architecture, performance tuning, and technical leadership.
-- Proficient in leveraging AI-powered development tools such as GitHub Copilot, Cursor, and Windsurf to accelerate delivery and uphold code quality.
-- Maintains a custom-tuned development setup that follows best practices, and keeps it highly adaptable to quickly incorporate new toolchains and emerging technologies.
+Results-driven Software Engineer with over 12 years of experience designing, developing, and deploying scalable web and cloud-based systems. Skilled in **full-stack development**, **cloud architecture (AWS, GCP)**, and **CI/CD pipeline automation**. Experienced in building high-performance distributed systems and microservices in **Python**, **Java**, and **PHP**, with strong proficiency in frontend frameworks like React and Vue.
 
-## Experience
+Passionate about designing efficient, test-driven, and maintainable solutions that align with business goals. Adept at optimizing performance, automating deployments, and improving engineering workflows through DevOps best practices.
+
+## Core Skills
+
+- **Programming Languages:** Python, Java, JavaScript, TypeScript, PHP, Ruby, Bash
+- **Frameworks:** Django, Laravel, Spring, Node.js, React, Vue.js, Serverless Framework
+- **Cloud & DevOps:** AWS (Lambda, ECS, Fargate, CloudFormation, S3), GCP, Docker, Kubernetes, CI/CD (GitLab CI, BuildKite)
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
+- **Tools & Methodologies:** Agile/Scrum, TDD, GitHub Copilot, Cursor, Automation Scripting
+
+## Professional Experience
 
 ### FoodByUs
 
@@ -46,7 +37,7 @@ Senior Web Developer
 - Maintained 100% test coverage across all features while implementing comprehensive integration testing suites
 - Delivered 100+ production-ready features improving operational efficiency for restaurant partners through robust error handling and performance optimization
 
-**Technologies used:** PHP, Laravel (v5.2 and v11), ElasticSearch, MySQL (MariaDB), Redis, Docker, AWS, Vue, Tailwind CSS, Bash, Cursor, GitHub Copilot
+**Tech Stack:** PHP, Laravel (v5.2 and v11), ElasticSearch, MySQL (MariaDB), Redis, Docker, AWS, Vue, Tailwind CSS, Bash, Cursor, GitHub Copilot
 
 ---
 
@@ -75,7 +66,7 @@ security personnel in the Philippines
 - Migrate legacy Django application to latest stable version
 - Mitigate cybersecurity vulnerabilities for Django application
 
-**Technologies used:** Python (Django), JavaScript, TypeScript, React, AWS, GCP, Serverless Framework, Vite, MySQL, PostgreSQL, Docker
+**Tech Stack:** Python (Django), JavaScript, TypeScript, React, AWS, GCP, Serverless Framework, Vite, MySQL, PostgreSQL, Docker
 
 ---
 
@@ -93,7 +84,7 @@ goals (ECS, Lambda, Fargate, Cloudformation, etc.)
 - Design and develop low-latency, fault-tolerant, reliable and scalable
 distributed systems
 
-**Technologies used:** Java (Spring), PHP (Symfony, Laravel, CodeIgniter), MySQL, BuildKite CI/CD, Bash, Docker, AWS, Python, Datadog, PagerDuty, Serverless Framework
+**Tech Stack:** Java (Spring), PHP (Symfony, Laravel, CodeIgniter), MySQL, BuildKite CI/CD, Bash, Docker, AWS, Python, Datadog, PagerDuty, Serverless Framework
 
 ---
 
@@ -108,7 +99,7 @@ Full Stack Engineer
 - Build CI/CD pipelines for automated testing and deployment
 - Mentor and guide developers/code reviews
 
-**Technologies used:** Laravel, Docker, AWS (S3 for file storage), Tailwind CSS, GraphQL, PostgreSQL, Gitlab CI/CD, React/TypeScript
+**Tech Stack:** Laravel, Docker, AWS (S3 for file storage), Tailwind CSS, GraphQL, PostgreSQL, Gitlab CI/CD, React/TypeScript
 
 ---
 
@@ -122,7 +113,7 @@ Lead Back End Developer
 - Develop and maintain internal tools using low-code platform Retool to streamline business operations
 - Lead/mentor team of 3 developers in PH which works on the accounting hub platform which allows businesses to offload their bookkeeping / accounting tasks
 
-**Technologies used:** Node.js, MongoDB, Kubernetes, Docker, AWS, React, API Integrations (Xero, HubSpot, QuickBooks), Retool
+**Tech Stack:** Node.js, MongoDB, Kubernetes, Docker, AWS, React, API Integrations (Xero, HubSpot, QuickBooks), Retool
 
 ---
 
@@ -137,7 +128,7 @@ businesses to hire telemarketer professionals
 Laravel framework
 - Integrate Vicidial API (an open-source contact centre solution)
 
-**Technologies used:** PHP (Laravel, CodeIgniter), MySQL, JavaScript (jQuery, Vue.js), AWS (S3, EC2), Vicidial API
+**Tech Stack:** PHP (Laravel, CodeIgniter), MySQL, JavaScript (jQuery, Vue.js), AWS (S3, EC2), Vicidial API
 
 ---
 
@@ -152,7 +143,7 @@ tools that help our colleagues in business intelligence and data analysis
 scripting, scheduling
 - Database management, maintenance, optimization and scaling
 
-**Technologies used:** PHP (Procedural, CodeIgniter), MySQL, Bash, JavaScript (jQuery)
+**Tech Stack:** PHP (Procedural, CodeIgniter), MySQL, Bash, JavaScript (jQuery)
 
 ---
 
@@ -168,7 +159,7 @@ variety of web technologies
 - Train and assist tech bootcamp students via email/chat as they go through
 their learning journey
 
-**Technologies used:** Ruby/Rails, PHP, MySQL, JavaScript, Java, Python, WordPress, Linux, Node.js, HTML, CSS, Bootstrap, Socket.io
+**Tech Stack:** Ruby/Rails, PHP, MySQL, JavaScript, Java, Python, WordPress, Linux, Node.js, HTML, CSS, Bootstrap, Socket.io
 
 ---
 
