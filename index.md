@@ -20,7 +20,15 @@ Passionate about designing efficient, test-driven, and maintainable solutions th
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
 - **Tools & Methodologies:** Agile/Scrum, TDD, GitHub Copilot, Cursor, Automation Scripting
 
-## Professional Experience
+## Experience
+
+### Kaito Tech Solutions
+**CTO / Co-Founder**
+*October 2025 - Present (9 months)*
+
+* **Partner with clients to architect and deliver custom software solutions**, specializing in full-stack web development and API integrations.
+* **Lead technical strategy and system architecture** for the agency, ensuring scalable and maintainable deliverables.
+* **Manage end-to-end project lifecycles**, from initial client requirements gathering to deployment and infrastructure setup.
 
 ### FoodByUs
 
