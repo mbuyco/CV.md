@@ -1,24 +1,23 @@
 # Michael Buyco
-
-## Software Engineer
+## Senior Software Engineer
 
 🇵🇭 Cavite, Philippines
-📧 [mbuyco@protonmail.com](mailto:mbuyco@protonmail.com)
+📧 mbuyco@protonmail.com
 📱 +639944566702
 
 ## Summary
 
-Results-driven Software Engineer with over 12 years of experience designing, developing, and deploying scalable web and cloud-based systems. Skilled in **full-stack development**, **cloud architecture (AWS, GCP)**, and **CI/CD pipeline automation**. Experienced in building high-performance distributed systems and microservices in **Python**, **Java**, and **PHP**, with strong proficiency in frontend frameworks like React and Vue.
+Results-driven Senior Software Engineer with over 12 years of experience. Proven track record of architecting low-latency distributed systems, modernizing legacy codebases, and automating cloud infrastructure to drive business efficiency. Skilled in **full-stack development**, **cloud architecture (AWS, GCP)**, and **CI/CD pipeline automation**. Experienced in building high-performance microservices in **Python**, **Java**, and **PHP**, with strong proficiency in frontend frameworks like React and Vue.
 
-Passionate about designing efficient, test-driven, and maintainable solutions that align with business goals. Adept at optimizing performance, automating deployments, and improving engineering workflows through DevOps best practices.
+Passionate about designing efficient, test-driven, and maintainable solutions that align with business goals. Adept at optimizing performance, automating deployments, and mentoring engineering teams to improve workflows through DevOps best practices.
 
 ## Core Skills
 
-- **Programming Languages:** Python, Java, JavaScript, TypeScript, PHP, Ruby, Bash
-- **Frameworks:** Django, Laravel, Spring, Node.js, React, Vue.js, Serverless Framework
-- **Cloud & DevOps:** AWS (Lambda, ECS, Fargate, CloudFormation, S3), GCP, Docker, Kubernetes, CI/CD (GitLab CI, BuildKite)
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Tools & Methodologies:** Agile/Scrum, TDD, GitHub Copilot, Cursor, Automation Scripting
+* **Programming Languages:** Python, Java, JavaScript, TypeScript, PHP, Ruby, Bash
+* **Frameworks:** Django, Laravel, Spring, Node.js, React, Vue.js, Serverless Framework
+* **Cloud & DevOps:** AWS (Lambda, ECS, Fargate, CloudFormation, S3), GCP, Docker, Kubernetes, CI/CD (GitLab CI, BuildKite)
+* **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
+* **Tools & Methodologies:** Agile/Scrum, TDD, CI/CD Automation, GitHub Copilot, Cursor
 
 ## Experience
 
@@ -29,143 +28,112 @@ Passionate about designing efficient, test-driven, and maintainable solutions th
 * **Partner with clients to architect and deliver custom software solutions**, specializing in full-stack web development and API integrations.
 * **Lead technical strategy and system architecture** for the agency, ensuring scalable and maintainable deliverables.
 * **Manage end-to-end project lifecycles**, from initial client requirements gathering to deployment and infrastructure setup.
+* [Add a specific bullet point here about the current contract/project you are working on].
+
+**Tech Stack:** Laravel, React, Vue.js, AWS, GCP, Docker, MySQL, PostgreSQL, Elasticsearch, WordPress
 
 ### FoodByUs
-
-Senior Web Developer
+**Senior Software Engineer**
 *March 2023 - September 2025 (2 years 6 months)*
 
-- Built H&L POS Integration System including authentication framework, POS data synchronization, and product download infrastructure
-- Built Recipe Management / Menu Costing System with advanced features including price history tracking and margin monitoring
-- Led development of comprehensive Budget Tracker System with full backend implementation, API integration, and timezone-aware calculations, improving financial management for 1000+ restaurant users
-- Implemented Maxio Webhooks Integration for subscription management
-- Designed Price History Tracking System with Elasticsearch integration enabling comprehensive price change monitoring across 50,000+ products
-- Built Direct Order System with advanced email recipient selection, Elasticsearch integration, and buyer supplier information management
-- Enhanced CRM functionality with advanced buyer business rules, sales person management, and lead time overrides
-- Maintained 100% test coverage across all features while implementing comprehensive integration testing suites
-- Delivered 100+ production-ready features improving operational efficiency for restaurant partners through robust error handling and performance optimization
+* **Led the end-to-end development of a comprehensive Budget Tracker System**, implementing robust APIs and timezone-aware calculations to directly improve financial management and reporting accuracy for **1,000+ restaurant partners**.
+* **Architected a scalable Price History Tracking System leveraging Elasticsearch**, enabling real-time, low-latency price change monitoring across a massive catalog of **50,000+ products**.
+* **Spearheaded technical modernization efforts**, successfully navigating and bridging complex environments between legacy **Laravel v5.2 and modern v11**, significantly reducing technical debt.
+* **Engineered the H&L POS Integration System**, designing secure authentication frameworks and seamless POS data synchronization to automate product downloads and reduce manual data entry for users.
+* **Developed a core Recipe Management & Menu Costing System** featuring dynamic price history tracking and margin monitoring, empowering restaurant partners to optimize food costs and operational profitability.
+* **Integrated Maxio Webhooks** to automate complex subscription management workflows, reducing billing discrepancies and manual administrative overhead.
+* **Enhanced core CRM infrastructure** by introducing advanced buyer business rules, dynamic lead time overrides, and structured sales personnel management, directly increasing sales team efficiency.
+* **Delivered 100+ production-ready features** while strictly maintaining **100% test coverage** via comprehensive integration suites, significantly reducing production bugs and minimizing operational downtime.
 
 **Tech Stack:** PHP, Laravel (v5.2 and v11), ElasticSearch, MySQL (MariaDB), Redis, Docker, AWS, Vue, Tailwind CSS, Bash, Cursor, GitHub Copilot
 
 ---
 
 ### Spectrum One
-
-Senior Software Engineer
+**Senior Software Engineer (Contract)**
 *April 2022 - December 2022 (9 months)*
 
-- Develop and maintain a HIPAA-compliant serverless data processing pipeline
-which allows seamless integration across health service platforms to track
-health and wellness engagement activities that help incentivize its users
-through an engagement point system
-- Integrate third-party GraphQL API into the data processing pipeline and
-offload data to another third-party REST API
-- Develop and maintain a healthcare platform (web application) that lets health
-practitioners
-order/manage DNA tests for their patients
-- Develop and maintain security services web application that has a payroll
-system, HRIS and recruiter platform to help companies manage/recruit trained
-security personnel in the Philippines
-- Document and advocate engineering best practices
-- Automation/scripting to improve development workflow
-- Manage cloud infrastructure: cost optimization, automation and deployment
-(AWS, GCP)
-- Develop and maintain a web application for company payroll management
-- Migrate legacy Django application to latest stable version
-- Mitigate cybersecurity vulnerabilities for Django application
+* **Developed and maintained a HIPAA-compliant serverless data processing pipeline**, allowing seamless integration across health service platforms to track wellness activities and incentivize users via an engagement point system.
+* **Integrated third-party GraphQL APIs** into the data processing pipeline, offloading critical data to external REST APIs securely.
+* **Built and managed a healthcare web platform** enabling practitioners to order and manage DNA tests for their patients efficiently.
+* **Developed a security services web application** featuring a payroll system, HRIS, and recruiter platform to manage and recruit trained security personnel.
+* **Migrated a legacy Django application** to the latest stable version, successfully mitigating cybersecurity vulnerabilities and improving system stability.
+* **Managed cloud infrastructure across AWS and GCP**, focusing on cost optimization, automated deployments, and improving development workflows via automation scripts.
+* **Advocated for and documented engineering best practices**, elevating the team's code quality and operational standards.
 
 **Tech Stack:** Python (Django), JavaScript, TypeScript, React, AWS, GCP, Serverless Framework, Vite, MySQL, PostgreSQL, Docker
 
 ---
 
 ### Sinch MessageMedia
-
-PHP Developer
+**PHP Developer**
 *November 2020 - March 2022 (1 year 5 months)*
 
-- Develop and maintain MessageMedia Inbox system and backend services
-that serves 3+ million daily active users
-- Utilize a wide range of AWS services and best practices to achieve technical
-goals (ECS, Lambda, Fargate, Cloudformation, etc.)
-- On-call technical support roster
-- Migrate legacy SMS providers to AWS cloud
-- Design and develop low-latency, fault-tolerant, reliable and scalable
-distributed systems
+* **Developed and maintained the MessageMedia Inbox system** and backend services, reliably serving **3+ million daily active users**.
+* **Designed and developed low-latency, fault-tolerant distributed systems**, scaling infrastructure to handle high-volume messaging traffic.
+* **Migrated legacy SMS providers to the AWS cloud**, utilizing a wide range of AWS services (ECS, Lambda, Fargate, CloudFormation) to achieve high availability and modern cloud standards.
+* **Provided critical on-call technical support**, ensuring rapid incident resolution and minimal service disruption for enterprise clients.
 
 **Tech Stack:** Java (Spring), PHP (Symfony, Laravel, CodeIgniter), MySQL, BuildKite CI/CD, Bash, Docker, AWS, Python, Datadog, PagerDuty, Serverless Framework
 
 ---
 
 ### East Bay Prep
-
-Full Stack Engineer
+**Full Stack Engineer (Contract)**
 *October 2019 - March 2020 (6 months)*
 
-- Architect MVP infrastructure and utilize AWS services to achieve technical goals
-- Architect and develop the initial LMS platform for a U.S. startup which allows
-  students to prepare for their ACT/SAT exams
-- Build CI/CD pipelines for automated testing and deployment
-- Mentor and guide developers/code reviews
+* **Architected MVP infrastructure from scratch**, utilizing AWS services to launch the initial LMS platform for a U.S. startup, enabling students to prepare for ACT/SAT exams.
+* **Built robust CI/CD pipelines** to enforce automated testing and streamline deployment processes.
+* **Mentored junior developers** and conducted comprehensive code reviews to ensure code quality and maintainability.
 
-**Tech Stack:** Laravel, Docker, AWS (S3 for file storage), Tailwind CSS, GraphQL, PostgreSQL, Gitlab CI/CD, React/TypeScript
+**Tech Stack:** Laravel, Docker, AWS (S3), Tailwind CSS, GraphQL, PostgreSQL, GitLab CI/CD, React/TypeScript
 
 ---
 
 ### Botkeeper
-
-Lead Back End Developer
+**Lead Back End Developer**
 *January 2018 - July 2019 (1 year 7 months)*
 
-- API integrations: Xero, QuickBooks, HubSpot
-- Develop and maintain backend microservices for bookkeeping platform
-- Develop and maintain internal tools using low-code platform Retool to streamline business operations
-- Lead/mentor team of 3 developers in PH which works on the accounting hub platform which allows businesses to offload their bookkeeping / accounting tasks
+* **Led and mentored a cross-functional team of 3 developers** in the Philippines, driving the development of an accounting hub platform that allowed businesses to offload bookkeeping tasks.
+* **Engineered robust API integrations** with major enterprise platforms including Xero, QuickBooks, and HubSpot, ensuring seamless data synchronization.
+* **Developed and maintained scalable backend microservices** deployed on Kubernetes to support the core bookkeeping platform's growth.
+* **Built and maintained internal operational tools** using the Retool low-code platform, significantly streamlining internal business operations and reporting.
 
 **Tech Stack:** Node.js, MongoDB, Kubernetes, Docker, AWS, React, API Integrations (Xero, HubSpot, QuickBooks), Retool
 
 ---
 
 ### Outbounders.com
-
-Web Developer
+**Web Developer**
 *July 2015 - January 2018 (2 years 7 months)*
 
-- Develop and maintain web applications and backend services that allow
-businesses to hire telemarketer professionals
-- Migrate legacy code into a new system from legacy procedural PHP to
-Laravel framework
-- Integrate Vicidial API (an open-source contact centre solution)
+* **Developed and maintained web applications** and backend services connecting businesses with telemarketing professionals.
+* **Led a major system migration**, successfully refactoring legacy procedural PHP code into a modern, maintainable Laravel framework architecture.
+* **Integrated the Vicidial API** (an open-source contact center solution) to expand platform communication capabilities.
 
 **Tech Stack:** PHP (Laravel, CodeIgniter), MySQL, JavaScript (jQuery, Vue.js), AWS (S3, EC2), Vicidial API
 
 ---
 
 ### Lazada Group
-
-Web Developer
+**Web Developer**
 *May 2014 - July 2015 (1 year 3 months)*
 
-- Develop and maintain internal e-commerce pricing analytics and support
-tools that help our colleagues in business intelligence and data analysis
-- Automate pricing checks for competitors: web crawling, server shell
-scripting, scheduling
-- Database management, maintenance, optimization and scaling
+* **Developed internal e-commerce pricing analytics** and support tools, directly aiding the business intelligence and data analysis teams in market positioning.
+* **Automated competitor pricing checks** by engineering web crawling scripts, server shell scripting, and robust job scheduling workflows.
+* **Managed and optimized high-traffic databases**, ensuring scalable performance during peak e-commerce events.
 
 **Tech Stack:** PHP (Procedural, CodeIgniter), MySQL, Bash, JavaScript (jQuery)
 
 ---
 
 ### Village 88, Inc.
-
-Software Engineer / Training Assistant
+**Software Engineer / Training Assistant**
 *October 2012 - April 2014 (1 year 7 months)*
 
-- Learn different tech and programming languages and design course
-materials for tech bootcamp in the US
-- Develop and maintain multiple in-house and external web applications with a
-variety of web technologies
-- Train and assist tech bootcamp students via email/chat as they go through
-their learning journey
+* **Developed and maintained multiple web applications** for both in-house use and external clients using a diverse array of web technologies.
+* **Designed comprehensive course materials** for a U.S.-based tech bootcamp, staying current with emerging tech and programming languages.
+* **Trained and mentored bootcamp students**, providing direct technical assistance and guidance throughout their software engineering learning journey.
 
 **Tech Stack:** Ruby/Rails, PHP, MySQL, JavaScript, Java, Python, WordPress, Linux, Node.js, HTML, CSS, Bootstrap, Socket.io
 
@@ -173,5 +141,5 @@ their learning journey
 
 ## Education
 
-AMA Computer College Cavite
+**AMA Computer College Cavite**
 *Bachelor of Science - BS, Computer Engineering · (2008 - 2012)*
