@@ -28,7 +28,6 @@ Passionate about designing efficient, test-driven, and maintainable solutions th
 * **Partner with clients to architect and deliver custom software solutions**, specializing in full-stack web development and API integrations.
 * **Lead technical strategy and system architecture** for the agency, ensuring scalable and maintainable deliverables.
 * **Manage end-to-end project lifecycles**, from initial client requirements gathering to deployment and infrastructure setup.
-* [Add a specific bullet point here about the current contract/project you are working on].
 
 **Tech Stack:** Laravel, React, Vue.js, AWS, GCP, Docker, MySQL, PostgreSQL, Elasticsearch, WordPress
 
